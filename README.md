@@ -5,7 +5,7 @@ Este repositório é parte integranto do desafio proposto durante o bootcamp da 
 ## Estrutura do código e UML
 Optei por desenvolver uma classe principal contendo três interfaces ligadas a ela. O diagrama UML abaixo demonstra as característica de cada estrutura do código e seus métodos.
 
-<img src="/iPhone UML.jpg">
+<img src="iPhone UML.jpg" alt="Imagem mostrando o diagrama do iPhone.">
 
 
-#### Obriado por ler!! 
+#### Obrigado por ler!! 
