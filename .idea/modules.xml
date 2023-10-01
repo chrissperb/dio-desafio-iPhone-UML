@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-desafio-iPhone-UML.iml" filepath="$PROJECT_DIR$/.idea/dio-desafio-iPhone-UML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iPhone/iPhone.iml" filepath="$PROJECT_DIR$/iPhone/iPhone.iml" />
     </modules>
   </component>
 </project>
